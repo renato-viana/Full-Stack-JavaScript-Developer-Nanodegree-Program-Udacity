@@ -1,0 +1,16 @@
+{
+  "name": "tsconfig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "author": "Renato Borges Viana",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.9.1",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}
